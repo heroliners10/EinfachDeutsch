@@ -1,0 +1,13 @@
+.imageninicio {
+    position: absolute;
+    width: 500px;
+    height: 300px;
+} main {
+    width: 1000px;
+    height: 500px;
+    display: flex;
+} header {
+    background-color: orange;
+} footer {
+    background-color: blue;
+}
